@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[GasandElec-Wales]]></title>
         <description><![CDATA[GasandElec-Wales]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gasandelec-wales/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 14:45:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 15:28:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gasandelec-wales/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://gasandelectricityengineers.co.uk/img/main/mi1_713.jpg?599">]]></description>
-            <link>undefinedgas-safe-engineers-electricians-call-02920-140045-mobile/index.html</link>
+            <link>http://gasandelec-wales.co.uk/</link>
             <guid isPermaLink="false">2a9c8757-67a7-4e7f-b085-b88f5b48c4bf</guid>
-            <pubDate>Sun, 13 Mar 2016 14:45:39 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 15:28:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
